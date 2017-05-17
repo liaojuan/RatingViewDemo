@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 对应的是自定义的RatingView -->
+    <declare-styleable name="RatingView">
+        <attr name="ratingNum" format="integer" />
+        <attr name="rating" format="float" />
+        <attr name="ratingSize" format="dimension" />
+        <attr name="ratingMargin" format="dimension" />
+        <attr name="ratingDrawable" format="reference" />
+        <attr name="ratingSlectColor" format="color" />
+        <attr name="userEnable" format="boolean" />
+        <attr name="isInteger" format="boolean" />
+    </declare-styleable>
+    <!-- 对应的是自定义的RatingView -->
+
+</resources>
